@@ -1,4 +1,4 @@
-# CSS-repo
+# CSS-effects-repo
 
 HTML5 - CSS3 Animation Effects Repository
 
